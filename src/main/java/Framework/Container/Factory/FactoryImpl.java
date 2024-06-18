@@ -6,9 +6,9 @@ package Framework.Container.Factory;
 // ce qui réduit le couplage et rend le code plus modulaire et maintenable.
 
 
-public class AbstractFactoryImpl implements AbstractFactory {
+public class FactoryImpl implements AbstractFactory {
     @Override
     public AbstractPlugin createMyBean() {
-        return null;
+        return new PluginImpl();
     }
 }
