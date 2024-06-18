@@ -13,3 +13,6 @@ suivantes:
       <ul>c- Attribut (accés direct a l'attribut : Field) </ul>
 
 </ol>
+
+<h3>Demarches</h3>
+<h4>1-Creation d'un container des beans </h4>
