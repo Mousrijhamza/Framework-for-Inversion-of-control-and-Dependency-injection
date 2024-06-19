@@ -28,6 +28,7 @@ suivantes:
         <img src="C:\Users\Hamza\Pictures\Screenshots\Capture d'écran 2024-06-18 191025.png"></img>
         <ul>
             <li>Utilisez des usines pour instancier les beans à partir de configurations XML et d’annotations.</li>
+            <img src="C:\Users\Hamza\Pictures\Screenshots\Capture d'écran 2024-06-19 013356.png" />
             <li>Adaptez les annotations et les configurations XML pour qu'elles soient compréhensibles par le conteneur IoC.</li>
         </ul>
     </li>

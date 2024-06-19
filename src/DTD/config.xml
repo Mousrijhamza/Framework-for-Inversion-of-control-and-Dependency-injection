@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns=""
        xsi:noNamespaceSchemaLocation="Schema.xsd">
-    <bean id="a1" classe="a1.class"/>
-    <bean id="a2" classe="a2.class">
-        <property id="id1" ref="a1"/>
+    <bean id="1" classe="Final_APP.DAO.DaoImpl"/>
+    <bean id="2" classe="Final_APP.METIER.MetierImpl">
+        <property id="id1" ref="2"/>
     </bean>
     
 
