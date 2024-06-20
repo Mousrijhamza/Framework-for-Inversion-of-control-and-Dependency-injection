@@ -1,4 +1,4 @@
-package Final_APP.METIER;
+package application.METIER;
 
 public interface Metier {
     double calcul();

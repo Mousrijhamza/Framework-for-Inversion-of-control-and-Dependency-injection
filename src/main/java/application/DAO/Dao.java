@@ -1,4 +1,4 @@
-package Final_APP.DAO;
+package application.DAO;
 
 public interface Dao {
 

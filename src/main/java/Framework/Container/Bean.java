@@ -35,5 +35,8 @@ public class Bean extends HashMap<Integer, Object>{
         }
     }
 
+    public Map<Integer, Object> getMapBeans() {
+        return mapBeans;
+    }
 }
 

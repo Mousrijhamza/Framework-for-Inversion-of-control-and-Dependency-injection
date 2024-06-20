@@ -20,14 +20,15 @@ suivantes:
     <li>
         <strong>Conception du Conteneur IoC (Singleton Pattern)</strong> :
         <ul>
-            <li>Créez un conteneur IoC unique pour gérer les beans.</li>
+            <li>Créez un conteneur IoC unique pour gérer les beans.
+<img src="C:\Users\Hamza\Pictures\Screenshots\Capture d'écran 2024-06-18 191025.png"></img></li>
         </ul>
     </li>
     <img>
-        <strong>Configuration des Beans via XML et Annotations (Factory Pattern et Adapter Pattern)</strong> 
-        <img src="C:\Users\Hamza\Pictures\Screenshots\Capture d'écran 2024-06-18 191025.png"></img>
+        <strong>Configuration des Beans via XML et Annotations (Factory Pattern et Adapter Pattern)</strong>
         <ul>
-            <li>Utilisez des usines pour instancier les beans à partir de configurations XML et d’annotations.</li>
+            <li>Utilisez des usines pour instancier les beans à partir de configurations XML et d’annotations.
+<img src="C:\Users\Hamza\Pictures\Screenshots\Capture d'écran 2024-06-20 022932.png"></img></li>
             <li>Adaptez les annotations et les configurations XML pour qu'elles soient compréhensibles par le conteneur IoC.</li>
         </ul>
     </li>
